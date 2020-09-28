@@ -1,3 +1,3 @@
-module github.com/azizahonohunova/bank
+module github.com/azizahonohonova/bank
 
 go 1.15
